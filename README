@@ -1,0 +1,7 @@
+Vim 8.x supports native plugin management.
+~/.vim/pack/<pluginfoldername>/start/<pluginname>  "Start on startup
+~/.vim/pack/<pluginfoldername>/opt/<pluginname>    "Start with :packadd name
+
+
+
+
